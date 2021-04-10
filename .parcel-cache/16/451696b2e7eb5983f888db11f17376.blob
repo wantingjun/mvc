@@ -1,0 +1,7 @@
+#app2{
+    border:1px solid blue;
+}
+#app2 .tab-bar{
+    border:3px solid black;
+}
+#app2 .tab-content{}

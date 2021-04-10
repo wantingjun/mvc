@@ -1,0 +1,36 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/Cellar/yarn/1.17.3/libexec/bin/yarn.js init
+
+PATH: 
+  /anaconda3/bin:/Library/Frameworks/Python.framework/Versions/3.7/bin:/Users/tingjunwan/.npm-global/bin:/Users/tingjunwan/anaconda3/bin:/Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/usr/local/share/dotnet:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Wireshark.app/Contents/MacOS:/Applications/anaconda3/bin:/Applications/anaconda3/condabin:/anaconda3/bin:/Library/Frameworks/Python.framework/Versions/3.7/bin:/Users/tingjunwan/.npm-global/bin:/Users/tingjunwan/anaconda3/bin:/Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/bin:.:/Users/tignjunwan/apache-maven-3.6.1/bin:.:/Users/tignjunwan/apache-maven-3.6.1/bin
+
+Yarn version: 
+  1.17.3
+
+Node version: 
+  12.6.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/usr/local/Cellar/yarn/1.17.3/libexec/lib/cli.js:136724:13)
+      at Interface.emit (events.js:203:13)
+      at Interface._ttyWrite (readline.js:877:16)
+      at ReadStream.onkeypress (readline.js:189:10)
+      at ReadStream.emit (events.js:203:13)
+      at emitKeys (internal/readline.js:424:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1145:36)
+      at ReadStream.emit (events.js:203:13)
+      at addChunk (_stream_readable.js:294:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

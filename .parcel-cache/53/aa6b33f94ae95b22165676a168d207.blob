@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><link rel="stylesheet" href="/index.HASH_REF_6c7fe65dc5b3afd23196b7979c26efc2.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mvc</title>
+</head>
+<body>
+    <div class="app1">
+        <div class="output">
+            <span>100    </span>
+        </div>
+        <div class="actions">
+            <button>+1</button>
+            <button>-1</button>
+            <button>*2</button>
+            <button>/2</button>
+        </div>
+    <div class="app2"></div>
+    <div class="app3"></div>
+    <div class="app4"></div>
+    <script src="/index.HASH_REF_e9312995559a911a6f9b63a6bd78eeec.js"></script>
+</div></body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mvc</title>
+</head>
+<body>
+    <div class="app1">
+        <div>
+            <span>100    </span>
+        </div>
+    </div>
+    <div class="app2"></div>
+    <div class="app3"></div>
+    <div class="app4"></div>
+    <script src="67e2e1d839de85b19f58d77aecf7b303"></script>
+</body>
+</html>

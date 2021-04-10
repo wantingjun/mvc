@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mvc</title>
+</head>
+<body>
+    <div id="app1">
+        <div class="output">
+            <span>100    </span>
+        </div>
+        <div class="actions">
+            <button id="add1">+1</button>
+            <button id="minus2">-1</button>
+            <button id="mul2">*2</button>
+            <button id="divid2">/2</button>
+        </div>
+    <div id="app2"></div>
+    <div id="app3"></div>
+    <div id="app4"></div>
+    <script src="67e2e1d839de85b19f58d77aecf7b303"></script>
+</div></body>
+</html>

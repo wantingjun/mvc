@@ -1,0 +1,30 @@
+
+*{ 
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+ol,ul{
+    list-style: none;
+}
+body{
+    overflow: hidden;
+}
+body > .page{
+    display:flex;
+    flex-wrap: wrap;
+    
+}
+body > .page > section{
+    width:50vw;
+    height:50vh;
+}
+
+#app1{
+border: 1px solid red;
+width:50vw;
+height:50vh;
+}
+#app1 .output{}
+#app1 .actions{}
+/*# sourceMappingURL=index.HASH_REF_4473ed2135739810cdf2cdfac07ddac1.css.map */
